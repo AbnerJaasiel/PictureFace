@@ -1,0 +1,2 @@
+# PictureFace
+&lt;&lt;PictureFace>> Tecnologia de Reconocimiento Facial  WareCh&amp;p implementa nuevos conceptos, para usos complejos a futuro, como la tecnología de reconocimiento facial, que actualmente en nuestra pequeña biblioteca de software ofrece la versión (beta) en su forma mas nativa de reconocimiento facial que puedes descargar directamente en la pagina oficial o en el link directo https://mega.nz/file/Nq5UEBhZ...   - - Desarrollador: Abner Irías (Abjair) 
